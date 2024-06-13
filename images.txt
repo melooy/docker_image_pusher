@@ -21,3 +21,4 @@ ubuntu/squid:latest
 langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 nginx:latest
+mysql:latest
