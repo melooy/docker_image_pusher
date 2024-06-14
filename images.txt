@@ -8,6 +8,7 @@
 # Open WebUI 是一种可扩展、功能丰富且用户友好的自托管 WebUI，旨在完全离线运行。它支持各种 LLM 运行器，包括 Ollama 和 OpenAI 兼容的 API。
 
 #dyrnq/open-webui:git-c489d47-ollama
+ghcr.io/open-webui/open-webui:main
 
 # Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产。  
 
@@ -38,4 +39,4 @@
 #mysql:latest
 
 #代理 MidJourney 的discord频道，实现api形式调用AI绘图
-novicezk/midjourney-proxy:2.6.3
+#novicezk/midjourney-proxy:2.6.3
