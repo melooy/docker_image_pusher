@@ -31,7 +31,7 @@ semitechnologies/weaviate:latest
 langgenius/dify-sandbox:latest
 ubuntu/squid:latest
 langgenius/qdrant:latest
-pgvector/pgvector
+pgvector/pgvector:pg16
 nginx:latest
 
 # mysql
