@@ -38,4 +38,4 @@
 #mysql:latest
 
 #代理 MidJourney 的discord频道，实现api形式调用AI绘图
-novicezk/midjourney-proxy
+novicezk/midjourney-proxy:2.6.3
