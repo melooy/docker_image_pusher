@@ -11,6 +11,7 @@
 
 # Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产。  
 
+# 指定版本
 #langgenius/dify-api:0.6.10
 #langgenius/dify-web:0.6.10
 #postgres:15-alpine
@@ -20,6 +21,18 @@
 #ubuntu/squid:latest
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
-#nginx:latest
-xprobe/xinference:v0.12.0
-#mysql:8.4.0
+
+# 最新
+langgenius/dify-api:latest
+langgenius/dify-web:latest
+postgres:latest
+redis:latest
+semitechnologies/weaviate:latest
+langgenius/dify-sandbox:latest
+ubuntu/squid:latest
+langgenius/qdrant:latest
+pgvector/pgvector:latest
+nginx:latest
+
+# mysql
+#mysql:latest
