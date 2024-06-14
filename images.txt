@@ -21,4 +21,4 @@
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
 #nginx:latest
-mysql:8.4.0-1.el9
+mysql:8.4.0
