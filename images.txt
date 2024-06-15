@@ -51,4 +51,4 @@
 #novicezk/midjourney-proxy:2.6.3
 
 #Xorbits Inference（Xinference）是一个性能强大且功能全面的分布式推理框架。可用于大语言模型（LLM），语音识别模型，多模态模型等各种模型的推理。通过 Xorbits Inference，你可以轻松地一键部署你自己的模型或内置的前沿开源模型。,CPU版，GPU的包太大，只能本地拉取及推送
-xprobe/xinference:v0.12.1-cpu
+#xprobe/xinference:v0.12.1-cpu
