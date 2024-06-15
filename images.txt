@@ -39,9 +39,9 @@
 pgvector/pgvector:0.7.0-pg15
 mongo:5.0.18
 mongo:4.4.29
-labring/fastgpt-sandbox:v4.8.3
-labring/fastgpt:v4.8.3
-songquanpeng/one-api:latest
+ghcr.io/labring/fastgpt-sandbox:v4.8.3
+ghcr.io/labring/fastgpt:v4.8.3
+ghcr.io/songquanpeng/one-api:latest
 
 # mysql
 #mysql:latest
