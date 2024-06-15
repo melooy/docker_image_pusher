@@ -8,7 +8,7 @@
 # Open WebUI 是一种可扩展、功能丰富且用户友好的自托管 WebUI，旨在完全离线运行。它支持各种 LLM 运行器，包括 Ollama 和 OpenAI 兼容的 API。
 
 #dyrnq/open-webui:git-c489d47-ollama
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
 
 # Dify 是一个开源的 LLM 应用开发平台。其直观的界面结合了 AI 工作流、RAG 管道、Agent、模型管理、可观测性功能等，让您可以快速从原型到生产。  
 
@@ -35,8 +35,17 @@ ghcr.io/open-webui/open-webui:main
 #pgvector/pgvector:pg16
 #nginx:latest
 
+# FastGPT 是一个基于 LLM 大语言模型的知识库问答系统,提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排,从而实现复杂的问答场景! 
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
+mongo:4.4.29
+labring/fastgpt-sandbox:v4.8.3
+labring/fastgpt:v4.8.3
+songquanpeng/one-api:latest
+
 # mysql
 #mysql:latest
+mysql:8.0.36
 
 #代理 MidJourney 的discord频道，实现api形式调用AI绘图
 #novicezk/midjourney-proxy:2.6.3
